@@ -1,7 +1,7 @@
 import React from 'react'
 import Paper from '@mui/material/Paper';
 import { Box, Button, Grid, Rating, Typography, createTheme } from '@mui/material';
-import { AccessTime, Tour } from '@mui/icons-material';
+import { AccessTime } from '@mui/icons-material';
 import { ThemeProvider } from '@emotion/react';
 import { useNavigate } from 'react-router-dom';
 
